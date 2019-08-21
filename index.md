@@ -23,7 +23,7 @@
 
 ### Video Game Design Projects
 
-- [GameMaker Studio Studio](https://github.com/DayChevalier/GML)
+[GameMaker Studio Studio](https://github.com/DayChevalier/GML)
 <!--<img src="images/goodboi.png?raw=true"/>-->
 ---
 
