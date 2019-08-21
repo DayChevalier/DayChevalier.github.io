@@ -19,7 +19,7 @@
 
 ### Video Game Design Projects
 
-- [GameMaker Studio Experimentation](http://example.com/)
+- [GameMaker Studio Experimentation](https://github.com/DayChevalier/GML)
 <img src="images/goodboi.png?raw=true"/>
 ---
 
