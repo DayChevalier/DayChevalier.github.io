@@ -2,25 +2,29 @@
 
 ---
 
-### Category Name 1 
+### College Programming Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Java Code](https://github.com/DayChevalier/Java)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[C++ Code](https://github.com/DayChevalier/C)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+
+---
+[Visual Basic Code](https://github.com/DayChevalier/VB)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+
+---
+[Web Design](https://github.com/DayChevalier/WebDesign)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
 ### Video Game Design Projects
 
 - [GameMaker Studio Experimentation](https://github.com/DayChevalier/GML)
-<img src="images/goodboi.png?raw=true"/>
+<!--<img src="images/goodboi.png?raw=true"/>-->
 ---
 
 
